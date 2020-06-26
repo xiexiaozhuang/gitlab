@@ -7,3 +7,5 @@ this is the 3rd line
 this is bug fix 1
 
 this is bug fix 2
+
+this is new release 1
