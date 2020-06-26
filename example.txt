@@ -9,3 +9,5 @@ this is bug fix 1
 this is bug fix 2
 
 this is new release 1
+
+this is new release 2
